@@ -15,7 +15,7 @@ This is a simple card design project. It uses clean code and works well on mobil
 
 
 
-
-
+### Preiew
+![Document-GoogleChrome2025-04-1814-06-42-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2514fdb-bb77-4b4c-aea8-adb95970d1eb)
 
   
